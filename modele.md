@@ -1,3 +1,5 @@
+V2
+
 Statut général du personnel
 
 # Propos liminaires
